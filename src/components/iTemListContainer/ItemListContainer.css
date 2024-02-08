@@ -1,0 +1,15 @@
+.listaContenedora {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Ajusta la altura del contenedor al 100% del viewport */
+}
+
+.mensaje {
+  text-align: center;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ff2c6e;
+}
